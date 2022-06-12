@@ -1,1 +1,1 @@
-# tyy-battery
+# tty-battery
