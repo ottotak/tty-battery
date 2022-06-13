@@ -1,1 +1,3 @@
 # tty-battery
+## memo
+ncurses
