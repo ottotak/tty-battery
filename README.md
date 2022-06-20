@@ -9,5 +9,8 @@ cd tty-clock/src
 make
 ./tty-battery
 ```
+## Tasks
+- [ ] アスキーアートを表示する
+- [ ] アスキーアートを作る
 ## memo
 ncurses
